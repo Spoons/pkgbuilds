@@ -1,0 +1,14 @@
+pkgbase = nerd-fonts-mplus
+	pkgdesc = Patched mplus font from nerd-fonts library
+	pkgver = 2.1.0
+	pkgrel = 1
+	url = https://github.com/ryanoasis/nerd-fonts
+	arch = any
+	license = MIT
+	provides = ttf-font-mplus
+	source = MPlus-2.1.0.zip::https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/MPlus.zip
+	source = https://raw.githubusercontent.com/ryanoasis/nerd-fonts/2.1.0/LICENSE
+	sha256sums = d88b440d40747fd196bc86a741a6c0233737600c3b20e50e7512d7ea3e74b90e
+	sha256sums = d2a29823384e9194a87936ccad495c764c2ef733b29bfa6f72a1d65803ce02e5
+
+pkgname = nerd-fonts-mplus
